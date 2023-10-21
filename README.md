@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate fullstack developer from New York</h3>
 
-- 👨‍💻 All of my projects are available at [jordanschneider1.netlify.app](jordanschneider1.netlify.app)
+- 👨‍💻 All of my projects are available at [https://jordanschneider1.netlify.app/](https://jordanschneider1.netlify.app/)
 
 - 📫 How to reach me **jordanschneider43@gmail.com**
 

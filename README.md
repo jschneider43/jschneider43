@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jschneider43&show_icons=true&locale=en&layout=compact" alt="jschneider43" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jschneider43&" alt="jschneider43" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jschneider43" alt="jschneider43" /></p>
